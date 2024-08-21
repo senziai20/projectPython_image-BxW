@@ -6,7 +6,8 @@
 **. Image Conversion:** Converts any colored image to a black-and-white (grayscale) version.
 
 **. Batch Processing:** Supports the conversion of multiple images at once.
-Customizable Output: Allows users to specify the output format and resolution.
+
+**. Customizable Output:** Allows users to specify the output format and resolution.
 
 **. Simple and Efficient:** Designed with a straightforward interface for ease of use.
 
